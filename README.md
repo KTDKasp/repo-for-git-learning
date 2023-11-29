@@ -8,3 +8,5 @@
 4. [git remote add](https://jet-package-6f2.notion.site/65f9d79af1d1427b876b693fb49370c1?pvs=4)
 5. [git push](https://jet-package-6f2.notion.site/3a272522a75c4cac9296018e67b3f4ce?pvs=4)
 6. [how to set and use README.md](https://jet-package-6f2.notion.site/README-md-b667a5e30b784a19b4e4fa46673b94ff?pvs=4)  
+7. [fix for commits](https://jet-package-6f2.notion.site/7efabd97e9a34e5e975a6c06d6106266?pvs=4)
+8. [commit rollback (unstage)](https://jet-package-6f2.notion.site/348b7d9af9c644039136da25441b215f?pvs=4)
